@@ -2,20 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Chess_Game
-{
-    class Queen : Piece
-    {
+namespace Chess_Game{
+    class Queen : Piece{
 
-        public Queen(String colour) : base(colour)
-        {
+        public Queen(String colour) : base(colour){
             Name = "Q";
         }
 
-        internal override bool validateMove(Move move, ChessBoard board)
-        {
+        internal override bool validateMove(Move move, ChessBoard board){
             if ((Math.Abs(move.to.Item1 - move.from.Item1) > 0) ^ (Math.Abs(move.to.Item2 - move.from.Item2) > 0))
             {
                 // End position possible
