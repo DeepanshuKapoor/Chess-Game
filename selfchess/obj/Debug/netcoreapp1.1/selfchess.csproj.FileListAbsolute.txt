@@ -1,0 +1,9 @@
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\bin\Debug\netcoreapp1.1\selfchess.deps.json
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\bin\Debug\netcoreapp1.1\selfchess.runtimeconfig.json
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\bin\Debug\netcoreapp1.1\selfchess.runtimeconfig.dev.json
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\bin\Debug\netcoreapp1.1\selfchess.dll
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\bin\Debug\netcoreapp1.1\selfchess.pdb
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\obj\Debug\netcoreapp1.1\selfchess.csprojResolveAssemblyReference.cache
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\obj\Debug\netcoreapp1.1\selfchess.AssemblyInfo.cs
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\obj\Debug\netcoreapp1.1\selfchess.dll
+c:\users\deepanshukapoor\documents\visual studio 2017\Projects\selfchess\selfchess\obj\Debug\netcoreapp1.1\selfchess.pdb
